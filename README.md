@@ -12,7 +12,7 @@ This is a QR code based digital business card app for easy contact info exchange
 
 ## Images
 If the images are not appearing in a viewer, please refer to the rest of the zipped folder for references.
-![main](./main.webp)
-![settings](./settings.webp)
-![contact](./contact.webp)
-![social](./social.webp)
+![main](./pictures/main.webp)
+![settings](./pictures/settings.webp)
+![contact](./pictures/contact.webp)
+![social](./pictures/social.webp)
