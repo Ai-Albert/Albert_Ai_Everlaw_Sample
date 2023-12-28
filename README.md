@@ -11,7 +11,7 @@ This is a QR code based digital business card app for easy contact info exchange
     - sign_in: sign in pages (separate from the app folder for my own sake during the development process)
 
 ## Images
-If the images are not appearing in a viewer, please refer to the rest of the zipped folder for references.
+If the images are not appearing in a viewer, please refer to the rest of the zipped folder for references.<br />
 ![main](./pictures/main.webp)
 ![settings](./pictures/settings.webp)
 ![contact](./pictures/contact.webp)
